@@ -1,0 +1,20 @@
+.bg {
+	background: linear-gradient(3deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+.bgwhite {
+	background-color:  #fff;
+
+}
+
+.titulo {
+	font-size: 25px;
+	margin-left: 15px;
+}
+
+.mt-3 {
+	margin-top: 50px;
+	margin-bottom:50px;
+	border-radius: 2%;
+}
